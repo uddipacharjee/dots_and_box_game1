@@ -1,7 +1,7 @@
 # dots_and_boxt_game
 
 # dots_and_box_game
-# this is a game to play with computer
+# this is a game to play within two humane players, a mips editor is needed to run the program
 the box is like belo:</br>
 
  &nbsp;&nbsp; 1 2 3 4</br>
